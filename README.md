@@ -1,4 +1,4 @@
-# python爬取全国历年GDP数据
+# python爬取全球历年GDP数据
 
 ## 程序一：gdp_excel.py效果
 <img src="多张excel.jpg" width="50%">
